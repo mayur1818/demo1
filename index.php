@@ -7,7 +7,7 @@
 <input name="radioGrp" type="radio" value="Water" /> Water
 <input name="radioGrp" type="radio" value="Beer" /> Beer
 <input checked="checked" name="radioGrp" type="radio" value="Wine" /> Wine
-<a class="btn btn-primary pull-right getvalue" type="button">Get Valuee</a></div>
+<a class="btn btn-primary pull-right getvalue" type="button">Get Valuee eee</a></div>
 
 
 <script type="text/javascript">
